@@ -1,0 +1,10 @@
+
+spring:
+  data:
+    mongodb:
+      authentication-database: admin
+      database: demo_db
+      host: 10.0.57.17
+      password: root
+      port: 27017
+      username: root
